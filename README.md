@@ -1,5 +1,5 @@
 # binocular-camera-python
-双目测距完整代码，支持双目标定到测距完整流程
+双目测距完整代码，支持双目标定到测距完整流程，需要安装python和opencv的python库
 
 1，准备双目摄像头，准备黑白格标定板
 
